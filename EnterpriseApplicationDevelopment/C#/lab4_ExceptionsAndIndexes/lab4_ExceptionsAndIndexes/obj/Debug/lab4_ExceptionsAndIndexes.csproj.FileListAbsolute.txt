@@ -1,0 +1,14 @@
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.exe.config
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.exe
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.pdb
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.csprojResolveAssemblyReference.cache
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.csproj.CoreCompileInputs.cache
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.exe
+F:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.pdb
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.exe.config
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.exe
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\bin\Debug\lab4_ExceptionsAndIndexes.pdb
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.csprojResolveAssemblyReference.cache
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.csproj.CoreCompileInputs.cache
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.exe
+E:\C#\lab4_ExceptionsAndIndexes\lab4_ExceptionsAndIndexes\obj\Debug\lab4_ExceptionsAndIndexes.pdb

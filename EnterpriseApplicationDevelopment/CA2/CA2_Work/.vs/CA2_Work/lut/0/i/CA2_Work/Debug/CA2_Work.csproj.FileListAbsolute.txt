@@ -1,0 +1,7 @@
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\CA2_Work\bin\Debug\CA2_Work.exe.config
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\CA2_Work\bin\Debug\CA2_Work.exe
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\CA2_Work\bin\Debug\CA2_Work.pdb
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\CA2_Work\Debug\CA2_Work.csprojResolveAssemblyReference.cache
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\CA2_Work\Debug\CA2_Work.csproj.CoreCompileInputs.cache
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\CA2_Work\Debug\CA2_Work.exe
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\CA2_Work\Debug\CA2_Work.pdb

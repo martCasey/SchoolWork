@@ -1,0 +1,7 @@
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\bin\Debug\Lab5_EnumsStructs.exe.config
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\bin\Debug\Lab5_EnumsStructs.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\bin\Debug\Lab5_EnumsStructs.pdb
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\obj\Debug\Lab5_EnumsStructs.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\obj\Debug\Lab5_EnumsStructs.csproj.CoreCompileInputs.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\obj\Debug\Lab5_EnumsStructs.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\Lab5_EnumsStructs\Lab5_EnumsStructs\obj\Debug\Lab5_EnumsStructs.pdb

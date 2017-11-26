@@ -1,0 +1,14 @@
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.exe.config
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.exe
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.pdb
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.csproj.CoreCompileInputs.cache
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.exe
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.pdb
+F:\Semester7\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.exe.config
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.exe
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\bin\Debug\Lab4_Practice.pdb
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.csproj.CoreCompileInputs.cache
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.exe
+F:\Semester7\EnterpriseApplicationDevelopment\C#\Lab4_Practice\Lab4_Practice\obj\Debug\Lab4_Practice.pdb

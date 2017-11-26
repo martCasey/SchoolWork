@@ -1,0 +1,7 @@
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe.config
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\bin\Debug\DelegatesSolution.pdb
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.csproj.CoreCompileInputs.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\DelegatesSolution\DelegatesSolution\obj\Debug\DelegatesSolution.pdb

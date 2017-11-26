@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CA2_Work/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CA2_Work.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CA2_Work.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA2_Work/1.0.0": {
+      "type": "project",
+      "path": "../CA2_Work/CA2_Work.csproj",
+      "msbuildProject": "../CA2_Work/CA2_Work.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": [
+      "CA2_Work >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\X00119025\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "E:\\Semester7\\EnterpriseApplicationDevelopment\\CA2\\CA2_Work\\UnitTestCA\\UnitTestCA.csproj",
+      "projectName": "UnitTestCA",
+      "projectPath": "E:\\Semester7\\EnterpriseApplicationDevelopment\\CA2\\CA2_Work\\UnitTestCA\\UnitTestCA.csproj",
+      "packagesPath": "C:\\Users\\X00119025\\.nuget\\packages\\",
+      "outputPath": "E:\\Semester7\\EnterpriseApplicationDevelopment\\CA2\\CA2_Work\\UnitTestCA\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\X00119025\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {
+            "E:\\Semester7\\EnterpriseApplicationDevelopment\\CA2\\CA2_Work\\CA2_Work\\CA2_Work.csproj": {
+              "projectPath": "E:\\Semester7\\EnterpriseApplicationDevelopment\\CA2\\CA2_Work\\CA2_Work\\CA2_Work.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  }
+}

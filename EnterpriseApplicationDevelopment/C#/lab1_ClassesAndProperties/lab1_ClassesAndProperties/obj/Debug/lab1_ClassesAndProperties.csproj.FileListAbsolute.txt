@@ -1,0 +1,7 @@
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\bin\Debug\lab1_ClassesAndProperties.exe.config
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\bin\Debug\lab1_ClassesAndProperties.exe
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\bin\Debug\lab1_ClassesAndProperties.pdb
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\obj\Debug\lab1_ClassesAndProperties.csprojResolveAssemblyReference.cache
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\obj\Debug\lab1_ClassesAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\obj\Debug\lab1_ClassesAndProperties.exe
+C:\Users\martc\source\repos\lab1_ClassesAndProperties\lab1_ClassesAndProperties\obj\Debug\lab1_ClassesAndProperties.pdb

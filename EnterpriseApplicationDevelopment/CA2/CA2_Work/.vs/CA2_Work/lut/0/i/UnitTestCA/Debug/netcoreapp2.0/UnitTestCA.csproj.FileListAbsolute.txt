@@ -1,0 +1,14 @@
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.deps.json
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.runtimeconfig.json
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.runtimeconfig.dev.json
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.dll
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\b\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.pdb
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.csprojResolveAssemblyReference.cache
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.csproj.CoreCompileInputs.cache
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.AssemblyInfoInputs.cache
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.AssemblyInfo.cs
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.dll
+G:\Semester7\EnterpriseApplicationDevelopment\CA2\CA2_Work\.vs\CA2_Work\lut\0\i\UnitTestCA\Debug\netcoreapp2.0\UnitTestCA.pdb

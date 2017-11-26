@@ -1,0 +1,7 @@
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\bin\Debug\CA1.exe.config
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\bin\Debug\CA1.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\bin\Debug\CA1.pdb
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\obj\Debug\CA1.csproj.CoreCompileInputs.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\obj\Debug\CA1.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK6\CA1\CA1\obj\Debug\CA1.pdb

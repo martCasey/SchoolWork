@@ -1,0 +1,7 @@
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\bin\Debug\Lab3_Interfaces.exe.config
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\bin\Debug\Lab3_Interfaces.exe
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\bin\Debug\Lab3_Interfaces.pdb
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\obj\Debug\Lab3_Interfaces.csprojResolveAssemblyReference.cache
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\obj\Debug\Lab3_Interfaces.csproj.CoreCompileInputs.cache
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\obj\Debug\Lab3_Interfaces.exe
+E:\C#\Lab3_Interfaces\Lab3_Interfaces\obj\Debug\Lab3_Interfaces.pdb

@@ -1,0 +1,6 @@
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\bin\Debug\Lab4_SolutionProgram.exe.config
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\bin\Debug\Lab4_SolutionProgram.exe
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\bin\Debug\Lab4_SolutionProgram.pdb
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\obj\Debug\Lab4_SolutionProgram.csproj.CoreCompileInputs.cache
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\obj\Debug\Lab4_SolutionProgram.exe
+F:\Semester7\C#\Lab4_SolutionProgram\Lab4_SolutionProgram\obj\Debug\Lab4_SolutionProgram.pdb

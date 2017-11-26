@@ -1,0 +1,2 @@
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\collectionsAndGenerics\collectionsAndGenerics\obj\Debug\collectionsAndGenerics.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\collectionsAndGenerics\collectionsAndGenerics\obj\Debug\collectionsAndGenerics.csproj.CoreCompileInputs.cache

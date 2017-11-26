@@ -1,0 +1,7 @@
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\bin\Debug\Exercise6_Delegates.exe.config
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\bin\Debug\Exercise6_Delegates.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\bin\Debug\Exercise6_Delegates.pdb
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\obj\Debug\Exercise6_Delegates.csprojResolveAssemblyReference.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\obj\Debug\Exercise6_Delegates.csproj.CoreCompileInputs.cache
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\obj\Debug\Exercise6_Delegates.exe
+F:\Semester7\EnterpriseApplicationDevelopment\WK7\Exercise6_Delegates\Exercise6_Delegates\obj\Debug\Exercise6_Delegates.pdb
