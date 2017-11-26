@@ -1,0 +1,49 @@
+hero component
+Date: 14/11/2017
+http://getbootstrap.com/2.3.2/components.html
+
+forest image
+Date: 14/11/2017
+
+code image
+Date: 14/11/2017
+
+dsp logo
+Date: 14/11/2017
+https://www.jobsexpo.ie/the-department-of-social-protection-to-take-part-in-jobs-expo-cork/
+
+ITT logo
+Date: 18/11/2017
+http://www.ista.ie/wp-content/uploads/2016/09/itt-logo-300.jpg
+
+Wrapper instructions
+http://www.webteacher.ws/2014/06/26/wrapper-div/
+https://www.sitepoint.com/community/t/wrappers-and-containers/5855
+
+Css instructions
+https://www.w3schools.com/css/css_howto.asp
+
+Image wrapping instructions
+https://stackoverflow.com/questions/27305816/need-image-to-match-the-size-of-a-flexible-parent-wrapper
+
+Only reference bootstrap, css, javascript, jquery, html, any theory apsects of the course discussed in the lecutures.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+Bootstrap Carousel
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
+
+Rounded Image
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_rounded_images 
+
+Bootstrap Striped Table
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_table_striped&stacked=h
+
+Bootstrap Pill
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_tabs&stacked=h
+
+Bootstrap Modal
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_modal_lg&stacked=h
+
+Bootstrap Form
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_form_horizontal&stacked=h

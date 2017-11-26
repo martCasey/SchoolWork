@@ -1,0 +1,440 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title><!-- Import for bootstrap content -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- mystyle css sheet -->
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+  <div id="wrapper">
+    <div class="container">
+<nav id="navbar" class="navbar navbar-inverse">
+  <!-- A navigation bar that sticks to the top
+    <nav id="navbar" class="navbar navbar-inverse navbar-fixed-top sticky" role="navigation"> -->
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Martin</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#me">Home</a></li>
+      <li><a href="#aboutMe">About me</a></li>
+      <li><a href="#education">Education</a></li>
+	  <li><a href="#projects">Projects</a></li>
+    <li><a href="#workExperience">Work Experience</a></li>
+    <li><a href="#hobbies">Hobbies</a></li>
+	  <li><a href="#contactMe">Contact me</a></li>
+    </ul>
+    <form class="navbar-form navbar-left">
+      <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search">
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+  </div>
+</nav>
+
+<img id="image1" src="Images/computerCartoon.png" alt="computer">
+  <div id="me">
+  <div class="hero-unit"><!-- Hero component -->
+  <h1>Name:  Martin Casey</h1>
+  <h2><b>Discipline:</b> Computer Programmer</h2>
+</div>
+</div>
+<!-- Carousel Example -->
+<div id="innerContainer" class="container">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="Images/skidsMold.jpg" alt="Skids" style="width:100%;">
+    </div>
+
+    <div class="item carousel-item">
+      <img src="Images/Legends-Ultra-Magnus.jpg" alt="Ultra" style="width:100%;">
+    </div>
+
+    <div class="item carousel-item">
+      <img src="Images/Headmasters-assemble.jpg" alt="Heads" style="width:100%;">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+<p>-----------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------
+  ---------------
+</p>
+<br/>
+
+<!-- Go to top of page
+<button onclick="topFunction()" id="myBtn" title="Go to Top">Top</button>
+-->
+<img id="aboutPic" src="Images/megaHead.png" alt="profile">
+<div id="aboutMe">
+<h2>About Me</h2>
+<img id="image1" src="Images/computerCartoon.png" alt="computer">
+<p>I am a computer programing student currently working on getting their 4th Year Computing Degree from the Institue of Technology Tallaght.
+  I spend long hours working on my given assignments to ensure that they are well done and meet an expected level of quality from a student in Higher Education.
+  My intention when I finish my college work is to go out and work in the IT industry, and become an active and contributing member.
+</p>
+<br/>
+<img id="image1" src="Images/computerCartoon.png" alt="computer">
+<p>I am a computer programing student currently working on getting their 4th Year Computing Degree from the Institue of Technology Tallaght.
+  I spend long hours working on my given assignments to ensure that they are well done and meet an expected level of quality from a student in Higher Education.
+  My intention when I finish my college work is to go out and work in the IT industry, and become an active and contributing member.
+</p>
+<br/>
+<img id="image1" src="Images/computerCartoon.png" alt="computer">
+<p>I am a computer programing student currently working on getting their 4th Year Computing Degree from the Institue of Technology Tallaght.
+  I spend long hours working on my given assignments to ensure that they are well done and meet an expected level of quality from a student in Higher Education.
+  My intention when I finish my college work is to go out and work in the IT industry, and become an active and contributing member.
+</p>
+</div>
+<br/>
+
+<div id="education">
+<h2>Education</h2>
+<p><img id="image2" src="Images/itt-logo-300.jpg" alt="ITT"></p>
+<p>I went to The Institue of Technology Tallaght to obtain my knowledge of computer programming.  
+  There I was provided with access to many up-to-date practices in the ever-evolving world of computer programing.
+  The lecturers at the college were both knowledgeable on the subjects that they taught, and also helpful when students need to seek assitance on there work at nearly any given time.
+</p>
+<p>Awards:  -------------------------------------------------------------------
+</p>
+<h2>GPA</h2>
+<div id="innerContainer" class="container">
+  <!-- bootstrap table -->
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Subject</th>
+        <th>Y1</th>
+        <th>Y2</th>
+        <th>Y3</th>
+        <th>Y4</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Software</td>
+        <td>5</td>
+        <td>10</td>
+        <td>20</td>
+        <td>60</td>
+      </tr>
+      <tr>
+        <td>Database</td>
+        <td>5</td>
+        <td>10</td>
+        <td>20</td>
+        <td>60</td>
+      </tr>
+      <tr>
+        <td>Web</td>
+        <td>5</td>
+        <td>10</td>
+        <td>20</td>
+        <td>60</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<p>-----------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------
+  ---------------
+</p>
+<br/>
+
+<div id="projects">
+<h2>Projects</h2>
+<p>During my time working as a student at ITT, I need to work on a handful of projects from time to time as per the requirements of my assignments.  
+  Some of these projects were individual, and others I needed to work on with other people in a group.  The projects and there details are shown here:
+</p>
+<h3>Work Experience Project:</h3>
+<p>I spent the second half of my 3rd Year of my computing course engaged with the Work Experience module in my course.  I performed my work experience at the Department of Social Protection.  
+  During my time working at the Department I worked with two other interns from DIT, to develop a Photocopier Information Management System for internal use by staff members in the Department.
+</p>
+
+<h3>Second Year Project 1</h3>
+<p>For my second year of computing in my course, I need to work on an software based project as per the requirement of my Software Development module.  
+  This project required myself and two other students to work together and build a ticket booking console based application for a cinema, using java and sql.
+</p>
+
+<h3>Second Year Project 2</h3>
+<p>The next project that I had to do as per the requirement of another module in my second year of computing was that of an Lesuire Centre Website.  
+  I also need to work on this project with two other students, though they were completely different students than who I worked with on my last project.
+</p>
+
+<h3>First Year Project 2</h3>
+<p>The first big project I need to perform as per the requirement of one of my computing modules was not necessiarly a computing focused project, as all computing CA's at that point were in lab tests.
+  No, instead this project was a Social Media Research Project that I and two other students need to conduct.  For the project we need to interview a business owner and devise a possible social media strategy they coudl use.
+</p>
+
+<!-- bootstrap pill -->
+<div id="innerContainer" class="container">
+  <h3>Tabs</h3>
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#">Home</a></li>
+    <li><a href="#">Menu 1</a></li>
+    <li><a href="#">Menu 2</a></li>
+    <li><a href="#">Menu 3</a></li>
+    <li><a href="#">Menu 4</a></li>
+  </ul>
+
+  <!-- bootstrap modal -->
+<div id="innerContainer" class="container">
+  <h2>Large Modal</h2>
+  <!-- Trigger the modal with a button -->
+  <a href="#myModal">
+  <img id="image1" src="Images/computerCartoon.png" alt="computer">
+  </a>
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Large Modal</button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Project</h4>
+        </div>
+        <div class="modal-body">
+          <p>This is a large modal.  This is a large modal.  This is a large modal.</p>
+          <p><img id="image2" src="Images/itt-logo-300.jpg" alt="ITT"></p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="innerContainer" class="container">
+    <h2>Large Modal</h2>
+    <!-- Trigger the modal with a button -->
+    <a href="#myModal">
+    <img id="image1" src="Images/computerCartoon.png" alt="computer">
+    </a>
+    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Large Modal</button>
+  
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Project</h4>
+          </div>
+          <div class="modal-body">
+            <p>This is a large modal.  This is a large modal.  This is a large modal.</p>
+            <p><img id="image2" src="Images/itt-logo-300.jpg" alt="ITT"></p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Image Modal
+<img id="myImg" src="Images/computer_code.jpg" alt="Code" width="300" height="200">
+-->
+<!-- The Modal
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+    modal.style.display = "none";
+}
+</script>-->
+<p>-----------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------
+  ---------------
+</p>
+<br/>
+
+<div id="workExperience">
+    <h2>Work Placement</h2>
+  <!-- bootstrap pill -->
+<div id="innerContainer" class="container">
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#">DSP</a></li>
+      <li><a href="#">EIR</a></li>
+      <li><a href="#">GAME</a></li>
+      <li><a href="#">ST.MARY'S</a></li>
+    </ul>
+<p>I spent the second half of my third year in my computing course taking part in the work experience module provided by the college.  I performed my work experience at the Department of Social Protection along with two other interns.  
+  In the Department, I and the two other interns needed to develop a Photocopier Information Management System for use by internal staff members at the Department. 
+</p>
+<p><img id="image" src="Images/Department-of-Social-Protection-Logo.jpg" alt="DSP"></p>
+</div>
+</div>
+<p>-----------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------
+  ---------------
+</p>
+<br/>
+
+<div id="hobbies">
+<h2>Hobbies</h2>
+<p>When I am not doing computer work, I tend to like to spend some time enjoying simpler things.  Namely other things in the quote unquote nerd sphere.  Comic books are usally my perferred source of entertainment escapism, but when I am not reading comic books (or working) then I would find myself enjoying entertainment such as movies and TV shows.  
+  Animated movies and TV shows being usally some of my favourite.
+</p>
+<p><img id="image" src="Images/MY_HOBBIES_LoRes_RGB_tnsp.png" alt="Hobbies"></p> 
+</div>
+<div id="innerContainer" class="container">
+    <!-- bootstrap table -->
+    <table class="table">
+      <tbody>
+        <tr>
+          <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+            <p>Clickable Accordian</p>
+            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+            <div id="demo" class="collapse">
+              Hey can you read this?
+            </div></td>
+            <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+              <p>Clickable Accordian</p>
+              <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+              <div id="demo" class="collapse">
+                Hey can you read this?
+              </div></td>
+              <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+                <p>Clickable Accordian</p>
+                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+                <div id="demo" class="collapse">
+                  Hey can you read this?
+                </div></td>
+        </tr>
+        <tr>
+            <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+              <p>Clickable Accordian</p>
+              <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+              <div id="demo" class="collapse">
+                Hey can you read this?
+              </div></td>
+              <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+                <p>Clickable Accordian</p>
+                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+                <div id="demo" class="collapse">
+                  Hey can you read this?
+                </div></td>
+                <td><img id="imageR" src="Images/computerCartoon.png" alt="computer">
+                  <p>Clickable Accordian</p>
+                  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+                  <div id="demo" class="collapse">
+                    Hey can you read this?
+                  </div></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+<p>-----------------------------------------------------------------------------------------------------
+  -----------------------------------------------------------------------------------------------------------------------
+  ---------------
+</p>
+<br/>
+
+<div id="contactMe">
+<h2>Contact Me</h2>
+<!-- Contact form -->
+<div id="innerContainer" class="container">
+  <h2>Enter your</h2>
+  <form class="form-horizontal" action="/action_page.php">
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="name">Name:</label>
+  <div class="col-sm-10">
+    <input type="name" class="form-control" id="name" placeholder="Enter name" name="name">
+  </div>
+  </div>
+<div class="form-group">
+  <label class="control-label col-sm-2" for="address">Address:</label>
+<div class="col-sm-10">
+  <input type="address" class="form-control" id="address" placeholder="Enter address" name="address">
+</div>
+</div>
+<div class="form-group">
+    <label class="control-label col-sm-2" for="phone">Phone:</label>
+  <div class="col-sm-10">
+    <input type="phone" class="form-control" id="phone" placeholder="Enter phone" name="phone">
+  </div>
+  </div>
+  <div class="form-group">
+      <label class="control-label col-sm-2" for="email">Email:</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+    </div>
+    </div>
+<div class="form-group">
+  <div class="col-sm-offset-2 col-sm-10">
+    <button type="submit" class="btn btn-default">Submit</button>
+  </div>
+</div>
+</form>
+</div>
+<p><b>OR</b></p>
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+<h4>8057679991</h4>
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+<h4>martcasey@live.ie</h4>
+<h4>//The below images will become links later</h4>
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+<img id="imageR" src="Images/computerCartoon.png" alt="computer">
+</div>
+<br/>
+
+<!-- Accrodian
+<hr>Accordian</h2>
+<p>Clickable Accordian</p>
+<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple Collapsible</button>
+<div id="demo" class="collapse">
+  Hey can you read this?
+</div>
+-->

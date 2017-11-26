@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <style>
+		.col-xs-2 {
+		height: 100px;
+		background-color: yellow;
+		color: black;
+		text-align: center;
+		border: 2px solid black;
+		}
+		
+		.col-xs-4 {
+		height: 100px;
+		background-color: orange;
+		color: black;
+		text-align: center;
+		border: 2px solid black;
+		}
+	</style>
+	
+</head>
+
+<body>
+	<div class="container">
+		<h1>My First Boostrap Page</h1>
+		
+		<div class="row">
+			<div class="col-xs-4">.col-xs-4</div>
+			<div class="col-xs-2">.col-xs-2</div>
+			<div class="col-xs-4 col-md-push-2">.col-xs-4</div>
+			<div class="col-xs-2 col-md-pull-4">.col-xs-2</div><!-- Push and Pull features allow you to swap columns -->
+		</div>
+		
+		<div class="row">
+			<div class="col-md-4 col-md-offset-4">
+			Demonstrating the offset class
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-sm12">
+				<h1 class="visible-sm">This content will only be visible on a small screen</h1>
+			</div>
+		</div>
+			
+			<div class="row">
+				<div class="col-sm-12">
+					<h3 class="visible-xs">Xtra Small screen</h3>
+					<h3 class="visible-sm">Small screen</h3>
+					<h3 class="visible-md">Medium screen</h3>
+					<h3 class="visible-lg">Large screen</h3>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-sm-12">
+					<h1 class="hidden-sm">This content will only be hidden on a small screen</h1>
+				</div>
+			</div>
+	</div>
+
+</body>
+	
+</html>
+		

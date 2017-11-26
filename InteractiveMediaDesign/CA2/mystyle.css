@@ -1,0 +1,68 @@
+#wrapper
+{
+    background-color: lightblue;
+}
+
+#image
+{
+    width: 100%;
+
+}
+
+#image1
+{
+    size: 5%;
+}
+
+#image2
+{
+    size: 5%;
+}
+
+#aboutPic
+{
+    border-radius: 50%;
+    width: 30%;
+}
+
+#imageR
+{
+    size: 5%;
+    border-radius: 50%;
+}
+
+#navbar
+{
+    width: 122%;
+}
+
+.nav navbar-nav
+{
+    width: 100%;
+}
+
+.container
+{
+    overflow: auto;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    height: auto;
+}
+
+.table
+{
+    background-color: grey
+}
+
+.item
+{
+    width: auto;
+    height: 20em;
+}
+
+#innerContainer
+{
+    width: 80%;
+}
